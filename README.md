@@ -38,6 +38,8 @@ Data Validation
 Dashboard Design
 Data Cleaning Functions
 
+Dashboard Preview
+Dashboard
 
 Author
 Mahitosh
